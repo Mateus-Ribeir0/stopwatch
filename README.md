@@ -1,4 +1,4 @@
-# ⏱️ Stopwatch Project 🕒
+# ⏱️ Stopwatch 🕒
 
 ## About
 This project is a simple stopwatch application built using HTML, CSS, and JavaScript. It allows users to start, pause, and reset the stopwatch, providing a straightforward interface for timing events.
